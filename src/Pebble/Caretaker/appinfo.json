@@ -1,0 +1,29 @@
+{
+    "appKeys": {
+        "FALL_DOWN": 1,
+        "KEY_ALERT": 2,
+        "KEY_LOC": 3,
+        "ALERT_RESULT": 4,
+        "LOC_RESULT": 5,
+	"KEY_BAT": 6,
+	"KEY_END": 7
+    },
+    "capabilities": [
+        "location"
+    ],
+  "uuid": "1fbd8595-bcd1-4a82-87af-cf5efc2ee1af",
+  "shortName": "Caretaker",
+  "longName": "Caretaker",
+  "companyName": "PalimarRao",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
